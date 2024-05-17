@@ -226,3 +226,7 @@ NOR TEST CELL VIEW
 NOR SIMULATION WITH SPECTRA
 
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
+
+
+
+RESULT:THe design and simulation of the CMOS inverter and the DC and transient responses using cadence tool is successfully observed and verified.
