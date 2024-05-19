@@ -5,7 +5,7 @@
 
 APPARATUS REQUIRED:
  
-1.Laptop with MobaXterm
+1.Laptop with MobaXterm 
 
 2.Cadence tool
 ```
